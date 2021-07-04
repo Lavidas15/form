@@ -1,0 +1,41 @@
+body {
+  background-color: #ccff99;
+  font-family: Comic Sans MS;
+}
+.changeBG {
+  margin: auto;
+  width: 800px;
+}
+fieldset {
+  width: 700px;
+  height: 500px;
+  border: double;
+  background-color: #0f6;
+  padding: 20px;
+}
+legend {
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 5px;
+}
+.formInfos {
+  width: 30%;
+  padding: 20px;
+  float: left;
+}
+li {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.changeHeight {
+  height: 60px;
+}
+
+.formAnswers {
+  width: 55%;
+  padding: 20px;
+  float: left;
+}
+.textareaHeight {
+  height: 100px;
+}
